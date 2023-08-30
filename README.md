@@ -1,0 +1,4 @@
+# Technohacks
+Task-1 : TIC-TAC-TOE
+Task-2 : ATM SIMULATOR
+Task-3 : RANDOM PASSWORD GENERATOR
